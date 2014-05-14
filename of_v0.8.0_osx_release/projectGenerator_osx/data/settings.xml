@@ -1,0 +1,17 @@
+<group>
+	<ofx3DModelLoader>0</ofx3DModelLoader>
+	<ofxAssimpModelLoader>0</ofxAssimpModelLoader>
+	<ofxGui>0</ofxGui>
+	<ofxKinect>0</ofxKinect>
+	<ofxNetwork>0</ofxNetwork>
+	<ofxOpenCv>0</ofxOpenCv>
+	<ofxOsc>0</ofxOsc>
+	<ofxSvg>0</ofxSvg>
+	<ofxThreadedImageLoader>0</ofxThreadedImageLoader>
+	<ofxVectorGraphics>0</ofxVectorGraphics>
+	<ofxXmlSettings>0</ofxXmlSettings>
+<group/>
+<ofxARtoolkitPlus>0</ofxARtoolkitPlus>
+	<ofxFBOTexture>0</ofxFBOTexture>
+    <ARToolKit>0</ARToolKit>
+</group>
